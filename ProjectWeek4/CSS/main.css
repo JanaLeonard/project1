@@ -1,0 +1,13 @@
+*{
+    border: 1px solid red;
+}
+.header{
+    background-color: lightpink;
+}
+.logo, .email, .phone, .login, .register{
+    width: 100px;
+    height: 100px;
+}
+.main-nav{
+    background-color: gray;
+}
