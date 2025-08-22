@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+body{
+    background-color: bisque;
+}
+#pageTitle{
+    color: darkgreen;
+}
+.heading_elements{
+    color: darkblue;
+}
