@@ -1,0 +1,37 @@
+*{
+    border: 1px solid tan;
+}
+.header{
+    background-color: lightpink;
+    display: flex;
+    width: 100%;
+}
+.logo, .email, .phone, .login, .register{
+   background-color: lightblue;
+   width: 20%;
+    height: 20px;
+    padding-right: 10px;
+}
+.main-nav{
+    background-color: lightskyblue;
+}
+.slider{
+    background-color: lightgreen;
+}
+.services{
+    background-color: lightpink;
+    display: flex;
+    width: 100%;
+}
+.service1, .service2, .service3, .service4{
+    width: 25%;
+}.contact{
+    background-color: lightgreen;
+    display: flex;
+    width: 100%;
+}
+.footer{
+    background-color: lightpink;
+    display: flex;
+    width: 100%;
+}
